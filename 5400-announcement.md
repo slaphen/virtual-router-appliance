@@ -29,7 +29,7 @@ After March 31, 2019, the vendor for Vyatta 5400 (AT&T, who acquired the Vyatta 
 
 Customers using the Vyatta 5400 should migrate to an alternative solution (such as the IBM Virtual Router Appliance (“VRA”; based on the Vyatta 5600) or the IBM Juniper vSRX offering) prior to March 31, 2019.   
 
-As either of these alternative solutions requires a new configuration, IBM Cloud continues to offer a no cost Configuration Conversion service. For details of this service, or to request a conversion engagement, please send an e-mail to nwom@us.ibm.com, and state:
+As either of these alternative solutions requires a new configuration, IBM Cloud continues to offer a no cost Configuration Conversion service until June 15, 2019. For details of this service, or to request a conversion engagement, please send an e-mail to nwom@us.ibm.com, and state:
 
 1. The name of the IBM Cloud customer.
 2. IBM Cloud account number.
